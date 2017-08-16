@@ -1,0 +1,9 @@
+{:uriI"Îfile:///Users/apple/Desktop/Extras/PubNub%20Demos/PubnubMailer/app/assets/javascripts/templates/stocks.hbs?type=text/x-handlebars-template&id=8fa63c7822e58fdf264ef201c218e7fdf72f736fb7e7ac48f24bdd964b805cbc:ET:load_pathI"app/assets/javascripts;T:filenameI"0app/assets/javascripts/templates/stocks.hbs;T:	nameI"templates/stocks;T:logical_pathI"templates/stocks.hbs;T:content_typeI"text/x-handlebars-template;T:sourceI"r{{#stocks}}
+    <div class="stock">
+        {{company}} - {{currency}} {{stock_price}}
+    </div>
+{{/stocks}};T:metadata{	:dependencieso:Set:
+@hash{
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"Tprocessors:type=text/x-handlebars-template&file_type=text/x-handlebars-template;TTI"vfile-digest:///Users/apple/Desktop/Extras/PubNub%20Demos/PubnubMailer/app/assets/javascripts/templates/stocks.hbs;TT:charsetI"
+utf-8;F:digest"%§ûgÿ¾XqKî$’¤­Co ¡Ò5Õ°$¾…pšÖ:lengthir:dependencies_digest"%˜øõG±Ã:_m[&]ç/1Jµ6¼ñ’•Ûì£³‹w[:idI"E8fa63c7822e58fdf264ef201c218e7fdf72f736fb7e7ac48f24bdd964b805cbc;F:
+mtimel+õæÎX
